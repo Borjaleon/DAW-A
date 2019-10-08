@@ -3,7 +3,7 @@ public class Coche {
 	
 	public Coche() {
 		
-		System.out.println("Soy un coche");
+		System.out.println("Ahora soy un barco");
 		
 	}
 
